@@ -1,6 +1,8 @@
 kind: cmake
 depends:
    - base.bst
+   - bsdemo1.bst
+   - hello.bst
 
 # Fetch from upstream repository
 #
