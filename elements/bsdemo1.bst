@@ -14,7 +14,7 @@ sources:
 - kind: git
   url: git@github.com:tbesemer/bsdemo1.git
   track: master
-  ref: 2ba687693a04a2c1116fec7e988dc41c2419d96e
+  ref: v1.0
 
 # Now configure the commands to run
 #
