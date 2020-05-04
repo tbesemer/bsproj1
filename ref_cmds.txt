@@ -1,0 +1,8 @@
+
+# Workspace Operations.
+#
+bst workspace open bsdemo1.bst bsdemo1
+bst build bsdemo1.bst
+bst shell bsdemo1.bst -- bsdemo1
+bst workspace close bsdemo1.bst
+
